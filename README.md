@@ -19,5 +19,5 @@ public class Hello_from_Param {public static void main(String[] args) {
 ##### *😄 Pronouns: Param
 ##### -⚡ Fun fact: I am constantly learning because I never settle
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,flutter,ReactJs,Docker,Java,Cpp,C,ExpressJs,html,css,wasm)](https://skillicons.dev)
 
