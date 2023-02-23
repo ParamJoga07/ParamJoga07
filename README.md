@@ -19,6 +19,16 @@ public class Hello_from_Param {public static void main(String[] args) {
 ##### *😄 Pronouns: Param
 ##### -⚡ Fun fact: I am constantly learning because I never settle
 
-
+Text(
+  'Hello Flutter ',
+),
+Icon(
+  Icons.favorite,
+  size: 20,
+  color: Colors.red,
+),
+Text(
+  ' World',
+),
 
 
