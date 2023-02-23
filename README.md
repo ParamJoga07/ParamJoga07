@@ -17,7 +17,7 @@ public class Hello_from_Param {public static void main(String[] args) {
 ##### *💬 You can ask me about _Blockchain_ , _Machine_ _Learning_ and 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,cpp,c,java,py,ts,flask,,express,mysql,mongodb,flutter,dart,firebase,php,html,css,bootstrap,vscode,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,cpp,c,java,py,ts,flask,express,mysql,mongodb,flutter,dart,firebase,php,html,css,bootstrap,vscode,docker,postman" />
   </a>
 </p>
 
