@@ -14,7 +14,7 @@ public class Hello_from_Param {public static void main(String[] args) {
 ##### -🔭 Currently, I am working on Flutter development and developing a Python backend service
 ##### *🌱 I am learning data extraction using Python and Nestjs
 ##### -👯 I am looking to collaborate with other developers and integrate multiple technologies to develop applications
-##### *💬 You can ask me about Flutter, ReactJs, app development, Fast API, Python, Java, C, C++, web development using HTML, CSS, JavaScript, React, PHP, as well as MYSQL, MongoDB, ExpressJs, and Docker
+##### *💬 You can ask me about _Flutter_, _ReactJs_, _app_ _development_, _Fast_ _API_, _Python_, _Java_, _C_, _C++_, _web_ _development_ using _HTML_, _CSS_, _JavaScript_, _React_, _PHP_, as well as _MYSQL_, _MongoDB_, _ExpressJs_, and _Docker_
 ##### -📫 You can reach me at parmeshwar5jan@gmail.com
 ##### *😄 Pronouns: Param
 ##### -⚡ Fun fact: I am constantly learning because I never settle
