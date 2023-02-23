@@ -18,11 +18,10 @@ public class Hello_from_Param {public static void main(String[] args) {
 ##### -📫 You can reach me at parmeshwar5jan@gmail.com
 ##### *😄 Pronouns: Param
 ##### -⚡ Fun fact: I am constantly learning because I never settle
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,figma&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,flask,cpp,c,bootstrap,ExpressJs,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,flask,cpp,c,bootstrap,dart,nodejs,express,mongodb,ts,flutter,firebase,java,py,php,html,css,vscode,docker)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,flask,cpp,c,bootstrap,dart,nodejs,express,mongodb,ts,flutter,firebase,java,py,php,html,css,vscode,docker" />
   </a>
 </p>
 
