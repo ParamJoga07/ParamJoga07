@@ -27,3 +27,9 @@ public class Hello_from_Param {public static void main(String[] args) {
 
 
 
+
+##### I have published reasearch on 
+#### COMPARTIVE ANALYSIS OF MACHINE LEARNING MODEL FOR CUSTOMER SEGMENTATION
+#### Edge Intelligence: The Cutting Edge of Healthcare, Apple Academic Press
+#### VOICE NOTEPAD BY USING NATIVE FILE SYSTEM API AND WEB SPEECH API IN JAVASCRIPT FOR SMART HEALTHCARE SERVICES
+and published reasearch papers in esteemed journals.
