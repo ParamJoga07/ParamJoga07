@@ -11,16 +11,15 @@ public class Hello_from_Param {public static void main(String[] args) {
 }
 ```
 
-- 🔭 I’m currently working on Flutter and Developing Python Backend Service
-- 🌱 I’m currently learning Data extraction using python and Nestjs
-- 👯 I’m looking to collaborate with other developers and wish to integrate multiple technologies together and make a application. 
-- 💬 Ask me about  `#RRGGBB` Flutter, ReactJs, App Devlopment,Fast API, python, 
-- Java, C, C++, and web development by using HTML, CSS, JavaScript, React, PHP,
-- and MYSQL, Mongodb, ExpressJs, Docker 
-- 📫 How to reach me: parmeshwar5jan@gmail.com 
-- 😄 Pronouns: Param
-- ⚡ Fun fact: I am constantly learning because "I NEVER SETTLE".
-
+🔭 Currently, I am working on Flutter development and developing a Python backend service.
+🌱 I am learning data extraction using Python and Nestjs.
+👯 I am looking to collaborate with other developers and integrate multiple technologies to develop applications.
+💬 You can ask me about Flutter ${Icons.flutter} World',
+)
+In this example, we're using the Text widget to display the text "Hello Flutter World" with the Flutter favorite icon in between. The Icons.favorite parameter inserts the icon in the text., ReactJs, app development, Fast API, Python, Java, C, C++, web development using HTML, CSS, JavaScript, React, PHP, as well as MYSQL, MongoDB, ExpressJs, and Docker.
+📫 You can reach me at parmeshwar5jan@gmail.com.
+😄 Pronouns: Param
+⚡ Fun fact: I am constantly learning because I never settle.
 
 ###
 
