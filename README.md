@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ParamJoga07/ParamJoga07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-public class Hello_from_Param {
-    public static void main(String[] args) {
+### public class Hello_from_Param {###   public static void main(String[] args) {
         System.out.println("I am a Full Stack developer with extensive experience in a variety of front end and back end languages, responsive frameworks, databases, and best code practises. My goal is to simply be the best Full Stack developer I can be and to contribute everything I know and can do to the technology industry.");
     }
 }
@@ -20,6 +14,6 @@ public class Hello_from_Param {
 - ⚡ Fun fact: I am constantly learning because "I NEVER SETTLE".
 
 
+###
 
 
--->
